@@ -1,0 +1,40 @@
+.success {
+    color: rgb(88, 129, 88);
+    background-color: rgb(160, 156, 156);
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding-left: 10px;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+}
+
+.error{
+    color: rgb(238, 37, 37);
+    background-color: rgb(160, 156, 156);
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding-left: 10px;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+    border: 1px solid red;
+}
+
+.blog{
+    display: grid;
+    grid-template-columns: 200px 200px;
+
+}
+
+#table{
+    overflow-x: hidden;
+}
+

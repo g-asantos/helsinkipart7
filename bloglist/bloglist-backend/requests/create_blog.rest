@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1heWJlY2hhbmdlcz8iLCJpZCI6IjVmMGY0Njc1YWVkMGNkMjM2MDNkOGRlYiIsImlhdCI6MTU5NDgzNjY0NH0.aUuzEjJap4Y53k-kgSiwQ-gUFXDhfbjTWfsoZVLhMsw
+
+{
+    "title": "jacklantern",
+    "author": "dfs4314",
+    "url": "xczczxc",
+    "likes": 34
+    
+}
